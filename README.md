@@ -35,9 +35,7 @@ os.chdir(path)  # format path as "C:\\Users\\( username )\\...\\movies\\favourit
 
 - **Run website**
 ```
-from project_movie_trailer_website import run_page
-
-run_page()
+import project_movie_trailer_website
 ```  
 
 ### Privacy
