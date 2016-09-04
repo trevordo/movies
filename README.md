@@ -20,7 +20,7 @@ movies
 └───favourite
 │   │   project_movie_trailer_website.py
 │   │   fresh_tomatoes.py
-│   │
+│   │   media.py
 ```
 
 ### Usage
