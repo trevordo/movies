@@ -1,6 +1,6 @@
 # Udacity FSND Project Movie Trailer Website
 
-View a webpage full of Trevor's Favourite movies.  
+View a webpage full of Trevor's Favourite movies!  
   
   
 
