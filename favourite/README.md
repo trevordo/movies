@@ -1,4 +1,4 @@
-# movies\favourite
+# movies/favourite
 
 Current contents
 
