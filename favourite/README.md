@@ -1,6 +1,6 @@
 # movies/favourite
 
-Current contents
+Contents
 
   - fresh_tomatoes.py
   - media.py
