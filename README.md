@@ -30,7 +30,7 @@ movies
 ```
 import os
 
-os.chdir(path)  # format path as "C:\\Users\\( username )\\" 
+os.chdir(path)  # format path as "C:\\Users\\( username )\\...\\movies\\favourite" 
 ```
 
 - **Run website**
