@@ -37,7 +37,12 @@ os.chdir(path)  # format path as "C:\\Users\\( username )\\...\\movies\\favourit
 ```
 import project_movie_trailer_website
 ```  
-
+### Changes
+----------
+```
+project_movie_trailer_website.py
+  - removed def run_page(): and replaced with call of fresh_tomatoes.open_movies_page()
+```
 ### Privacy
 ----------
 
