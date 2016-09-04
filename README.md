@@ -18,9 +18,9 @@ movies
 │   README.md
 │
 └───favourite
-│   │   project_movie_trailer_website.py
 │   │   fresh_tomatoes.py
 │   │   media.py
+│   │   project_movie_trailer_website.py
 ```
 
 ### Usage
@@ -35,9 +35,9 @@ os.chdir(path)  # format path as "C:\\Users\\( username )\\...\\movies\\favourit
 
 - **Run website**
 ```
-import project_movie_trailer_website
+from project_movie_trailer_website import run_page
 
-project_movie_trailer_website.run_page()
+run_page()
 ```  
 
 ### Privacy
