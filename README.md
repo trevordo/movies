@@ -37,7 +37,7 @@ os.chdir(path)  # format path as "C:\\Users\\( username )\\"
 ```
 import project_movie_trailer_website
 
-run_page()
+project_movie_trailer_website.run_page()
 ```  
 
 ### Privacy
