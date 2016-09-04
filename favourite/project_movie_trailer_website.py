@@ -45,5 +45,4 @@ movies = [hellboy2,
           burn_after_reading]
 
 # Run website fresh tomatoes
-def run_page():
-    fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
